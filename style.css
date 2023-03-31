@@ -1,0 +1,34 @@
+h1{
+    color: red;
+}
+h2{
+    font-style: italic;
+    color: red;
+}
+.col{
+    color: brown;
+    line-height: 50px; 
+}
+.delete{
+    text-decoration:line-through;
+}
+.back{
+    background-color: yellow;
+}
+.fon{
+    font-style: italic;
+    text-decoration: underline;
+}
+ul{
+    letter-spacing: 7px;
+    color: brown;
+}
+.bro{
+    color: brown;
+}
+.no{
+    text-decoration: none;
+    font-style: italic;
+    color: brown;
+
+}
